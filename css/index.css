@@ -1,0 +1,84 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 700 2.188em/1.38 Oswald;
+  color: rgb(230, 230, 230);
+}
+
+.element {
+  float: left;
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 4%;
+  min-height: 40px;
+  margin: -57px 0 0 1.07422%;
+  font-size: 1em;
+  color: rgb(230, 230, 230);
+}
+
+.element-1 {
+  width: 90%;
+  height: 27px;
+  margin: -96px 0 0 9.9974%;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-2 {
+  position: relative;
+  z-index: 4;
+  width: 100%;
+  height: 61px;
+  background-color: rgb(51, 51, 51);
+}
+
+.element-3 {
+  position: relative;
+  z-index: 2;
+  width: 45%;
+  height: 352px;
+  margin-top: 60px;
+  background: url('../images/IMG-7487.JPG') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: right top;
+}
+
+.element-4 {
+  position: relative;
+  clear: both;
+  z-index: 3;
+  width: 45%;
+  height: 352px;
+  margin: -352px 0 0 60.32682%;
+  background-color: rgb(77, 77, 77);
+}
+
+.element-5 {
+  width: 100%;
+  height: 342px;
+  margin-top: 98px;
+  background-color: rgb(26, 26, 26);
+}
+
+.image-1 {
+  width: 9.0833333333%;
+  margin: -226px 0 0 45.45703%;
+}
+
+.image-2 {
+  position: relative;
+  clear: both;
+  z-index: 0;
+  width: 20.4166666666%;
+  margin: -298px 0 0 43.16667%;
+}
